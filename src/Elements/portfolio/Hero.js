@@ -72,10 +72,10 @@ export default function Hero() {
           </motion.div>
 
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-gray-900 via-purple-900 to-gray-900 bg-clip-text text-transparent leading-tight">
-            Creative Developer
+            Lorik Gagica
             <br />
             <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-              & Designer
+              Project Manager
             </span>
           </h1>
 
