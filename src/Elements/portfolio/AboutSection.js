@@ -48,7 +48,7 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <p className="text-lg text-gray-700 leading-relaxed">
-              Hey there! I'm a passionate developer and designer who loves creating beautiful, 
+              Hey there! I'm a passionate project manager & developer and designer who loves creating beautiful, 
               functional web experiences. With over 5 years of experience, I've worked with 
               startups and established companies to bring their digital visions to life.
             </p>
